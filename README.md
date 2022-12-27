@@ -40,5 +40,4 @@ Programas que se utilizaron para el desarrollo de la aplicacion:
   2. Máximos y mínimos
   
   ### Método de Newton-Raphson
-
-El método de Newton Raphson es un procedimiento algorítmico que permite hallar raíces de funciones, conocido un valor numérico cercano a la raíz. Es un método abierto e iterativo, en general de rápida convergencia, muy útil para el cálculo de raíces cuadradas y de mayor grado.
+  El método de Newton Raphson es un procedimiento algorítmico que permite hallar raíces de funciones, conocido un valor numérico cercano a la raíz. Es un método abierto e iterativo, en general de rápida convergencia, muy útil para el cálculo de raíces cuadradas y de mayor grado.
