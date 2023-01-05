@@ -52,7 +52,9 @@ y avanzando con un paso h.
     
     ### Método de Taylor
     El método de Taylor es uno de los algoritmos más antiguos para aproximar la solución de un problema de valor inicial en una ecuación diferencial ordinaria.
+    
     Los métodos de Euler y Euler mejorado son de ordenes 1 y 2,respectivamente, y solo requieren evaluar a la función f(x; y).
+    
     En general, los métodos de Taylor consiguen ordenes altos para el error con la correspondiente dificultad que supone tener que derivar repetidamente la función
     
     ### Método de Runge-Kutta
